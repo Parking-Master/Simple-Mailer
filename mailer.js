@@ -19,7 +19,7 @@
         })
       }).then(data => {
 	   if ((data.ok || data.responseText == "OK") && to) {
-          resolve();
+             resolve();
 	   } else {
 	     reject("No recipients defined");
 	   }
