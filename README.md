@@ -25,7 +25,7 @@ email(TO, NAME, SUBJECT, BODY);
   - **SUBJECT** \- The subject of the email (Can be left blank).
   - **BODY** \- The body of the email \- Can include pure HTML5 (Can be left blank).
 
-Be careful - there is a delay on sending emails. You can only send up to 2 emails per minute.
+_Be careful - there is a delay on sending emails. You can only send up to 1 email per minute._
 
 ## License
 MIT
