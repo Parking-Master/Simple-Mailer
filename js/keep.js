@@ -27,6 +27,7 @@
     self.user.email = atob(user.email);
     self.user.password = atob(user.password);
     self.user.username = atob(user.username);
+    self.user.apiKey = atob(user.apiKey);
     self.isLoggedIn = true;
   } else {
     self.isLoggedIn = false;
