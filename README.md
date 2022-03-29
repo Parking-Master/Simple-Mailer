@@ -38,6 +38,8 @@ email(TO, NAME, SUBJECT, BODY);
 _Be careful - there is a delay on sending emails. You can only send up to 1 email per minute._
 You can also change the function name through your Home Page in Simple Mailer.
 
+Source code from your file (for simplemailer) is not shareable because Simple Mailer<br>
+checks if that user exists before posting an email to our servers.
 ## License
 MIT
 
